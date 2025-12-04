@@ -61,9 +61,3 @@ doluschat-lie-detector/
 ent (ignored)
 ├─ .gitignore
 └─ README.md
-
----
-
-## 1. Project Overview
-
-### 1. Project Overview
