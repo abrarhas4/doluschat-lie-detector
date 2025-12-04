@@ -62,6 +62,7 @@ ent (ignored)
 ├─ .gitignore
 └─ README.md
 
+---
 
 ## 3. DolusChat Lie Detector
 
