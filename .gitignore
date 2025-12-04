@@ -1,0 +1,24 @@
+# Python venv
+env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw + splits + reps)
+data/doluschat.jsonl
+data/splits/
+data/reps/
+
+# Model outputs
+outputs/
+
+# Logs
+logs/
+*.log
+
