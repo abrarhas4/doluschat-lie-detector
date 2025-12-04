@@ -58,7 +58,6 @@ doluschat-lie-detector/
 ├─ plots/                  # Result plots (.png) for report / slides
 ├─ logs/                   # Training logs (ignored)
 ├─ env/                    # Python virtual environm
-## 5. Methods
 ent (ignored)
 ├─ .gitignore
 └─ README.md
