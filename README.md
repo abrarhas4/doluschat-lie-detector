@@ -61,3 +61,15 @@ doluschat-lie-detector/
 ent (ignored)
 ├─ .gitignore
 └─ README.md
+
+
+## 3. DolusChat Lie Detector
+
+Detecting **truthful vs deceptive assistant answers** on the DolusChat dataset using three different methods:
+1. A simple **TF-IDF text classifier**
+2. A **classifier on BERT latent representations**
+3. A **reading-vector–based classifier** that uses a single “truth direction” in embedding space
+
+This repository contains all code to reproduce the experiments on an HPC cluster (and locally, with the right environment).
+
+---
