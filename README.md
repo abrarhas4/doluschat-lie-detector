@@ -61,3 +61,19 @@ doluschat-lie-detector/
 ent (ignored)
 ├─ .gitignore
 └─ README.md
+---
+## 3. Environment Setup
+
+We used **Python 3.12** on an HPC cluster.
+
+On the cluster, create and activate a virtual environment:
+
+```bash
+module load Python/3.12.3-GCCcore-13.3.0
+
+cd ~/projects/doluschat-lie-detector
+python -m venv env/venv
+source env/venv/bin/activate
+Install the required Python packages:
+pip install --upgrade pip
+pip install numpy pandas scikit-learn transformers torch tqdm matplotlib
